@@ -17,3 +17,7 @@
 - 模型融合 两个5fold模型ensemble
 
 ## 数据和预训练模自行下载
+
+## 运行
+> cd code
+> sh main.sh
