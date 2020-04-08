@@ -19,5 +19,7 @@
 ## 数据和预训练模自行下载
 
 ## 运行
+```shell
 > cd code
 > sh main.sh
+```
